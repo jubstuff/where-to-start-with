@@ -1,6 +1,6 @@
 # Where to start with...?
 
-This is a list of the best resources for developers who want to save the time and stress of figuring out what to read/watch/hear to start learning a about a topic.
+This is a highly opinionated list of the best resources for developers who want to save the time and stress of figuring out what to read/watch/hear to start learning a about a topic.
 
 ## Writing good code
 

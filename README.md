@@ -45,3 +45,7 @@ Code: The Hidden Language of Computer Hardware and Software - [Amazon](https://w
 ## Algorithms
 
 The Algorithm Design Manual - [Amazon](https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1849967202)
+
+## Agile Principles
+
+The Agile Sketchpad - [O'Reilly](http://shop.oreilly.com/product/0636920049012.do)

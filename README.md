@@ -20,7 +20,7 @@ Soft Skills: The software developer's life manual by John Sonmez - [Amazon](http
 
 ## JavaScript
 
-[Eloquent JavaScript](https://eloquentjavascript.net/)
+[You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS)
 
 ## Vue.js
 

@@ -4,11 +4,15 @@ This is a highly opinionated list of the best resources for developers who want 
 
 ## Writing good code
 
-Clean Code: A Handbook of Agile Software Craftsmanship by Robert C. Martin. - [Amazon](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/ref=cm_cr_arp_d_product_top?ie=UTF8)
+Clean Code: A Handbook of Agile Software Craftsmanship by Robert C. Martin. - [Amazon](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
 
 ## Being a better developer
 
 The Pragmatic Programmer: From Journeyman to Master	by Andrew Hunt,  David Thomas - [Amazon](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X)
+
+The Practice Of Programming, by Brian Kernighan, Rob Pike - [Amazon](https://www.amazon.com/Practice-Programming-Addison-Wesley-Professional-Computing-ebook/dp/B00HU50A12)
+
+Think Like A Programmer: An Introduction To Creative Problem Solving by V. Anton Spraul - [Amazon](https://www.amazon.com/Think-Like-Programmer-Introduction-Creative/dp/1593274246)
 
 ## Adopting best practices
 
@@ -16,7 +20,9 @@ Code Complete: A Practical Handbook of Software Construction - [Amazon](https://
 
 ## Improving soft skills
 
-Soft Skills: The software developer's life manual by John Sonmez - [Amazon](https://www.amazon.com/gp/product/1617292397/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1617292397&linkCode=as2&tag=aiop04-20&linkId=NJNM7Q6HVNOPALAK)
+Soft Skills: The software developer's life manual by John Sonmez - [Amazon](https://www.amazon.com/gp/product/1617292397)
+
+Just For Fun: The Story Of An Accidental Revolutionary by Linus Torvalds - [Amazon](https://www.amazon.com/Just-Fun-Story-Accidental-Revolutionary/dp/0066620732)
 
 ## JavaScript
 
@@ -28,7 +34,7 @@ Soft Skills: The software developer's life manual by John Sonmez - [Amazon](http
 
 ## Software Architecture
 
-Clean Architecture: A Craftsman's Guide to Software Structure and Design - [Amazon](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164/ref=cm_cr_arp_d_product_sims?ie=UTF8)
+Clean Architecture: A Craftsman's Guide to Software Structure and Design - [Amazon](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164)
 
 ## Improving your learning abilities
 
@@ -40,7 +46,9 @@ Working Effectively with Legacy Code - [Amazon](https://www.amazon.com/FEATHERS-
 
 ## Learning how computers work
 
-Code: The Hidden Language of Computer Hardware and Software - [Amazon](https://www.amazon.com/gp/product/0735611319/ref=as_li_tl?ie=UTF8&tag=jasonroell600-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0735611319&linkId=ab999066f33f4804cad4aa6229b69a8e)
+Code: The Hidden Language of Computer Hardware and Software - [Amazon](https://www.amazon.com/gp/product/0735611319)
+
+Structured Computer Organization by Andrew S. Tanenbaum - [Amazon](https://www.amazon.com/Structured-Computer-Organization-Andrew-Tanenbaum/dp/0273769243)
 
 ## Algorithms
 
@@ -49,3 +57,5 @@ The Algorithm Design Manual - [Amazon](https://www.amazon.com/Algorithm-Design-M
 ## Agile Principles
 
 The Agile Sketchpad - [O'Reilly](http://shop.oreilly.com/product/0636920049012.do)
+
+The Agile Samurai: How Agile Masters Deliver Great Software, by Jonathan Rasmusson - [Amazon](https://www.amazon.com/Agile-Samurai-Software-Pragmatic-Programmers/dp/1934356581)

@@ -41,3 +41,7 @@ Working Effectively with Legacy Code - [Amazon](https://www.amazon.com/FEATHERS-
 ## Learning how computers work
 
 Code: The Hidden Language of Computer Hardware and Software - [Amazon](https://www.amazon.com/gp/product/0735611319/ref=as_li_tl?ie=UTF8&tag=jasonroell600-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0735611319&linkId=ab999066f33f4804cad4aa6229b69a8e)
+
+## Algorithms
+
+The Algorithm Design Manual - [Amazon](https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1849967202)

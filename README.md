@@ -2,6 +2,8 @@
 
 This is a highly opinionated list of the best resources for developers who want to save the time and stress of figuring out what to read/watch/hear to start learning a about a topic.
 
+The idea is to suggest just one starting point for each section.
+
 ## Writing good code
 
 Clean Code: A Handbook of Agile Software Craftsmanship by Robert C. Martin. - [Amazon](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
@@ -9,6 +11,8 @@ Clean Code: A Handbook of Agile Software Craftsmanship by Robert C. Martin. - [A
 ## Being a better developer
 
 The Pragmatic Programmer: From Journeyman to Master	by Andrew Hunt,  David Thomas - [Amazon](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X)
+
+### Runner-ups
 
 The Practice Of Programming, by Brian Kernighan, Rob Pike - [Amazon](https://www.amazon.com/Practice-Programming-Addison-Wesley-Professional-Computing-ebook/dp/B00HU50A12)
 
@@ -21,6 +25,8 @@ Code Complete: A Practical Handbook of Software Construction - [Amazon](https://
 ## Improving soft skills
 
 Soft Skills: The software developer's life manual by John Sonmez - [Amazon](https://www.amazon.com/gp/product/1617292397)
+
+### Runner-up
 
 Just For Fun: The Story Of An Accidental Revolutionary by Linus Torvalds - [Amazon](https://www.amazon.com/Just-Fun-Story-Accidental-Revolutionary/dp/0066620732)
 
@@ -48,6 +54,8 @@ Working Effectively with Legacy Code - [Amazon](https://www.amazon.com/FEATHERS-
 
 Code: The Hidden Language of Computer Hardware and Software - [Amazon](https://www.amazon.com/gp/product/0735611319)
 
+### Runner-ups
+
 Structured Computer Organization by Andrew S. Tanenbaum - [Amazon](https://www.amazon.com/Structured-Computer-Organization-Andrew-Tanenbaum/dp/0273769243)
 
 ## Algorithms
@@ -58,4 +66,10 @@ The Algorithm Design Manual - [Amazon](https://www.amazon.com/Algorithm-Design-M
 
 The Agile Sketchpad - [O'Reilly](http://shop.oreilly.com/product/0636920049012.do)
 
+### Runner-ups
+
 The Agile Samurai: How Agile Masters Deliver Great Software, by Jonathan Rasmusson - [Amazon](https://www.amazon.com/Agile-Samurai-Software-Pragmatic-Programmers/dp/1934356581)
+
+## PHP
+
+PHP and MySQL® Web Development - [Amazon](https://www.amazon.com/PHP-MySQL-Development-Developers-Library/dp/0321833899)
